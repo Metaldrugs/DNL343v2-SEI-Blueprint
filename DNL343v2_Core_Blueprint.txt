@@ -1,0 +1,47 @@
+# DNL343v2 Core Blueprint
+
+Program Name: DNL343v2
+Derived From: DNL343 (Denali Therapeutics)
+Mechanistic Class: Selective ISR inhibitor
+Rescue Architecture: SEI-validated blueprinting via Moleculogic
+
+1. Therapeutic Hypothesis
+
+A refined version of DNL343 aimed at modulating the Integrated Stress Response (ISR) in ALS, with enhanced glial support and optimized pharmacokinetics.
+
+2. Key Innovations
+
+- Low-Dose, Sustained-Release Formulation: Engineered to maintain consistent ISR inhibition while avoiding toxicity observed in continuous high exposure.
+- Oscillatory Release Profile: Simulated kinetic waveform designed to pulse ISR suppression, reducing glial rebound toxicity.
+- Glial NRF2 Permissive Coupling: Indirectly enables NRF2 antioxidant pathway in glia by resolving ISR-linked neuroinflammation.
+- Adjunct Pairing with Edaravone: Rationalized combination therapy with a ROS scavenger to synergize ISR relief and oxidative protection.
+
+3. Predicted Effects (via SEI Logic Simulation)
+
+System | Expected Result
+-------|------------------
+Neurons | Enhanced ISR normalization (target index: 0.95–1.0)
+Glia | Reduced stress rebound, improved NRF2 activation
+CNS Microenvironment | Lowered inflammation, extended neuroprotection
+Clinical Readout | Slower ALS progression, improved functional endpoints (ALSFRS-R)
+
+4. Formulation Parameters
+
+- Delivery Route: Oral
+- Core Materials: Biodegradable polymer (PLGA-based) matrix
+- Target Tmax: ~3 hours
+- Oscillation Cycle: 12h sinusoidal release
+- Co-administered Agent: Edaravone (IV/oral standard)
+
+5. Validation Strategy
+
+- Transcriptomic fingerprinting: NRF2 and ISR panels in glial cell models
+- PK-PD linkage modeling: Quantify pulse amplitude vs. ISR index
+- In vivo ALS model: Confirm survival and function under pulsatile dosing
+- CMC Stability: Confirm reproducibility of oscillatory profile
+
+6. Development Pathway
+
+- Preclinical Phase (2025): PK, CMC, glial biomarker validation
+- Type C FDA Meeting: Present reformulation rationale and ISR/glia hypotheses
+- IND Submission (2026): If data supports safety, PK, and mechanistic rationale
